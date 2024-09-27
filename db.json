@@ -1,0 +1,333 @@
+{
+  "growthData": [
+    {
+      "name": "January",
+      "users": 1070,
+      "uv": 1200,
+      "pv": 800,
+      "growthRate": 0,
+      "activeUsers": 790,
+      "percentActive": 30
+    },
+    {
+      "name": "February",
+      "users": 8580,
+      "uv": 1800,
+      "pv": 1400,
+      "growthRate": 80,
+      "activeUsers": 6800,
+      "percentActive": 34.6
+    },
+    {
+      "name": "March",
+      "users": 2200,
+      "uv": 2500,
+      "pv": 2000,
+      "growthRate": 46.67,
+      "activeUsers": 1870,
+      "percentActive": 37.0
+    },
+    {
+      "name": "April",
+      "users": 3274,
+      "uv": 3400,
+      "pv": 2700,
+      "growthRate": 36.36,
+      "activeUsers": 1578,
+      "percentActive": 39.3
+    },
+    {
+      "name": "May",
+      "users": 2583,
+      "uv": 4500,
+      "pv": 3600,
+      "growthRate": 23.12,
+      "activeUsers": 1406,
+      "percentActive": 43.1
+    },
+    {
+      "name": "June",
+      "users": 5290,
+      "uv": 5800,
+      "pv": 4700,
+      "growthRate": 30,
+      "activeUsers": 2780,
+      "percentActive": 50.0
+    },
+    {
+      "name": "July",
+      "users": 6807,
+      "uv": 7500,
+      "pv": 6000,
+      "growthRate": 30.77,
+      "activeUsers": 4260,
+      "percentActive": 52.5
+    },
+    {
+      "name": "August",
+      "users": 8808,
+      "uv": 9700,
+      "pv": 7800,
+      "growthRate": 29.41,
+      "activeUsers": 3572,
+      "percentActive": 56.5
+    },
+    {
+      "name": "September",
+      "users": 11507,
+      "uv": 12800,
+      "pv": 10300,
+      "growthRate": 30.68,
+      "activeUsers": 9723,
+      "percentActive": 58.7
+    }
+  ],
+
+  "totalStreamsData": [
+    {
+      "month": "January",
+      "streams": 150000,
+      "peakStreams": 45000,
+      "averageStreamsPerDay": 5000,
+      "growthRate": 0,
+      "isGrowthPositive": false
+    },
+    {
+      "month": "February",
+      "streams": 200000,
+      "peakStreams": 60000,
+      "averageStreamsPerDay": 7150,
+      "growthRate": 33.33,
+      "isGrowthPositive": true
+    },
+    {
+      "month": "March",
+      "streams": 250000,
+      "peakStreams": 70000,
+      "averageStreamsPerDay": 8000,
+      "growthRate": 25.0,
+      "isGrowthPositive": true
+    },
+    {
+      "month": "April",
+      "streams": 180000,
+      "peakStreams": 50000,
+      "averageStreamsPerDay": 6000,
+      "growthRate": -28.0,
+      "isGrowthPositive": false
+    },
+    {
+      "month": "May",
+      "streams": 300000,
+      "peakStreams": 90000,
+      "averageStreamsPerDay": 9700,
+      "growthRate": 66.67,
+      "isGrowthPositive": true
+    },
+    {
+      "month": "June",
+      "streams": 350000,
+      "peakStreams": 100000,
+      "averageStreamsPerDay": 11667,
+      "growthRate": 16.67,
+      "isGrowthPositive": true
+    },
+    {
+      "month": "July",
+      "streams": 400000,
+      "peakStreams": 110000,
+      "averageStreamsPerDay": 13000,
+      "growthRate": 14.29,
+      "isGrowthPositive": true
+    },
+    {
+      "month": "August",
+      "streams": 450000,
+      "peakStreams": 125000,
+      "averageStreamsPerDay": 14500,
+      "growthRate": 12.5,
+      "isGrowthPositive": true
+    },
+    {
+      "month": "September",
+      "streams": 500000,
+      "peakStreams": 130000,
+      "averageStreamsPerDay": 15500,
+      "growthRate": 11.11,
+      "isGrowthPositive": true
+    }
+  ],
+
+  "users": [
+    { "id": 1, "name": "John Doe", "active": true },
+    { "id": 2, "name": "Jane Doe", "active": false },
+    { "id": 3, "name": "Alex Smith", "active": true },
+    { "id": 4, "name": "Emily Johnson", "active": false },
+    { "id": 5, "name": "Michael Brown", "active": true },
+    { "id": 6, "name": "Sarah Davis", "active": true },
+    { "id": 7, "name": "David Wilson", "active": false },
+    { "id": 8, "name": "Emma Martinez", "active": true },
+    { "id": 9, "name": "Chris Taylor", "active": false },
+    { "id": 10, "name": "Olivia Anderson", "active": true }
+  ],
+  "streams": [
+    {
+      "songTitle": "Shape of You",
+      "artistName": "Ed Sheeran",
+      "streams": 2887213456,
+      "releaseDate": "2017-01-06",
+      "duration": "3:53",
+      "coverImageUrl": "https://i.pinimg.com/564x/e6/5f/0c/e65f0c6ede57573306205af9dd7a115c.jpg"
+    },
+    {
+      "songTitle": "Dance Monkey",
+      "artistName": "Tones and I",
+      "streams": 2298345673,
+      "releaseDate": "2019-05-10",
+      "duration": "4:20",
+      "coverImageUrl": "https://lastfm.freetls.fastly.net/i/u/770x0/607de08e7519449bea56ebef37ccecbb.jpg#607de08e7519449bea56ebef37ccecbb"
+    },
+    {
+      "songTitle": "Blinding Lights",
+      "artistName": "The Weekend",
+      "streams": 1543769034,
+      "releaseDate": "2020-03-20",
+      "duration": "3:21",
+      "coverImageUrl": "https://lastfm.freetls.fastly.net/i/u/770x0/10fcaed0ad260dca39dd85068f7cbe6b.jpg#10fcaed0ad260dca39dd85068f7cbe6b"
+    },
+    {
+      "songTitle": "Sunflower",
+      "artistName": "Post Malone & Swae Lee",
+      "streams": 1613478953,
+      "releaseDate": "2018-10-19",
+      "duration": "2:38",
+      "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0lW6xpCPok9P2R45OHy5TF3a4H8cexrkMAA&s"
+    },
+    {
+      "songTitle": "Rockstar",
+      "artistName": "Post Malone ft. 21 Savage",
+      "streams": 1987345621,
+      "releaseDate": "2017-09-15",
+      "duration": "3:38",
+      "coverImageUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/PostMaloneRockstar.jpg/220px-PostMaloneRockstar.jpg"
+    }
+  ],
+  "recentStreams": [
+    {
+      "songName": "Blinding Lights",
+      "artist": "The Weeknd",
+      "dateStreamed": "2024-09-10T14:30:00Z",
+      "streamCount": 13455,
+      "userId": "user_001",
+      "coverImageUrl": "https://lastfm.freetls.fastly.net/i/u/770x0/10fcaed0ad260dca39dd85068f7cbe6b.jpg#10fcaed0ad260dca39dd85068f7cbe6b"
+    },
+    {
+      "songName": "Shape of You",
+      "artist": "Ed Sheeran",
+      "dateStreamed": "2024-09-10T15:00:00Z",
+      "streamCount": 11093,
+      "userId": "user_002",
+      "coverImageUrl": "https://i.pinimg.com/564x/e6/5f/0c/e65f0c6ede57573306205af9dd7a115c.jpg"
+    },
+    {
+      "songName": "Levitating",
+      "artist": "Dua Lipa",
+      "dateStreamed": "2024-09-09T18:20:00Z",
+      "streamCount": 12509,
+      "userId": "user_003",
+      "coverImageUrl": "https://lastfm.freetls.fastly.net/i/u/avatar170s/b034911aefd0bcfa9044b603076c8753"
+    },
+    {
+      "songName": "Save Your Tears",
+      "artist": "The Weeknd",
+      "dateStreamed": "2024-09-08T12:45:00Z",
+      "streamCount": 10233,
+      "userId": "user_004",
+      "coverImageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQJTT1lN7Qp2RP3bmdSgLZb9pppJVaGFy6daA&s"
+    },
+    {
+      "songName": "Circles",
+      "artist": "Post Malone",
+      "dateStreamed": "2024-09-10T10:05:00Z",
+      "streamCount": 13023,
+      "userId": "user_005",
+      "coverImageUrl": "https://i.pinimg.com/564x/cb/0c/d3/cb0cd364da6fab88be3bf64b2d068d83.jpg"
+    }
+  ],
+  "revenue": [
+    { "source": "Subscriptions", "amount": 50000 },
+    { "source": "Ads", "amount": 87000 },
+    { "source": "Merchandise", "amount": 18780 },
+    { "source": "Partnerships", "amount": 18000 },
+    { "source": "Events", "amount": 7000 },
+    { "source": "Sponsorships", "amount": 26000 },
+    { "source": "Donations", "amount": 3000 },
+    { "source": "Licensing", "amount": 14000 },
+    { "source": "Royalties", "amount": 2500 },
+    { "source": "Affiliate", "amount": 5000 }
+  ],
+  "topArtist": [
+    {
+      "rank": 1,
+      "name": "Lue G. Lopez",
+      "streams": 158711,
+      "playtime": "37h 02m",
+      "followers": 90.2,
+      "likes": 16.6,
+      "imageUrl": "https://cdn.pixabay.com/photo/2019/12/21/21/15/man-4711375_1280.jpg",
+      "isLiked": false
+    },
+    {
+      "rank": 2,
+      "name": "Richard K. Nguyen",
+      "streams": 151658,
+      "playtime": "43h 48m",
+      "followers": 74.8,
+      "likes": 8.9,
+      "imageUrl": "https://cdn.pixabay.com/photo/2023/08/31/11/43/ai-generated-8225027_640.png",
+      "isLiked": true
+    },
+    {
+      "rank": 3,
+      "name": "Lue G. Lopez",
+      "streams": 146723,
+      "playtime": "40h 33m",
+      "followers": 49.2,
+      "likes": 11.7,
+      "imageUrl": "https://cdn.pixabay.com/photo/2022/10/30/12/26/automn-7557374_640.jpg",
+      "isLiked": false
+    },
+    {
+      "rank": 4,
+      "name": "Roger Y. Beck",
+      "streams": 141458,
+      "playtime": "49h 48m",
+      "followers": 81.4,
+      "likes": 46.5,
+      "imageUrl": "https://cdn.pixabay.com/photo/2020/06/16/02/41/woman-5303971_640.jpg",
+      "isLiked": false
+    },
+    {
+      "rank": 5,
+      "name": "Lisa J. Huerta",
+      "streams": 134412,
+      "playtime": "39h 52m",
+      "followers": 49.3,
+      "likes": 17.3,
+      "imageUrl": "https://cdn.pixabay.com/photo/2022/10/07/18/35/man-7505637_640.jpg",
+      "isLiked": false
+    }
+  ],
+  "songs": [
+    { "id": 1, "title": "Song A", "artist": "Artist X", "streams": 10000 },
+    { "id": 2, "title": "Song B", "artist": "Artist Y", "streams": 8500 },
+    { "id": 3, "title": "Song C", "artist": "Artist Z", "streams": 9500 },
+    { "id": 4, "title": "Song D", "artist": "Artist W", "streams": 11000 },
+    { "id": 5, "title": "Song E", "artist": "Artist V", "streams": 12500 },
+    { "id": 6, "title": "Song F", "artist": "Artist U", "streams": 14000 },
+    { "id": 7, "title": "Song G", "artist": "Artist T", "streams": 13000 },
+    { "id": 8, "title": "Song H", "artist": "Artist S", "streams": 14500 },
+    { "id": 9, "title": "Song I", "artist": "Artist R", "streams": 15000 },
+    { "id": 10, "title": "Song J", "artist": "Artist Q", "streams": 16000 }
+  ]
+}
